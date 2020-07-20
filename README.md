@@ -1,4 +1,10 @@
-### Hi there 👋
+# (is this 'Z.Shang)
+
+* (write I 'parentheses)
+* [Blog](http://gilgamesh.me/)
+
+[![Z-Shang's github stats](https://github-readme-stats.vercel.app/api?username=z-shang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Z-Shang/Z-Shang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
